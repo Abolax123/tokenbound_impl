@@ -9,3 +9,6 @@ node_modules/
 
 # Rust build artifacts
 soroban-contract/target/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
